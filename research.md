@@ -39,7 +39,7 @@ Contact details:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4><a href="epcam_trop2">Structural biology of tumor markers EpCAM and Trop2</a></h4>
+      <h4><a href="research/epcam_trop2">Structural biology of tumor markers EpCAM and Trop2</a></h4>
     </div>
     <div class="item__body">
       <p>EpCAM and Trop2, heart-shaped molecules helping epithelial cells to come tightly together by facilitating tight junction formation, get crazy in carcinomas - they are often overexpressed, and cut by different proteases to release signaling-associated fragments. Solving the first crystal structures of both proteins, we are focused to connect their structure to both functional similarity and funcional divergence.</p>
@@ -55,7 +55,7 @@ Contact details:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4><a href="testicans">Testicans</a></h4>
+      <h4><a href="research/testicans">Testicans</a></h4>
     </div>
     <div class="item__body">
       <p>Providing the first overall structural insight into this protein group, we are interested how the protein core of these proteoglycans facilitates cell attachment and migration via interaction with cell-surface proteins.</p>
@@ -71,7 +71,7 @@ Contact details:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4><a href="actinins">Calcium-modulated human α-actinins</a></h4>
+      <h4><a href="research/actinins">Calcium-modulated human α-actinins</a></h4>
     </div>
     <div class="item__body">
       <p>α-Actinin-1 and -4 are ubiquitous actin filament-crosslinkng proteins, and this activity is fundamental to support some of the basic cellular functions like maintaining cell shape, stability, attachment and movement. The crosslinking activity of these two actinins is modulated by calcium, and we work together with the group of Prof. Kristina Djinović-Carugo (University of Vienna) to decipher how these α-actinins contribute to the dynamic rearrangement of the actin filament suprastructures.</p>
@@ -87,7 +87,7 @@ Contact details:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4><a href="other">Collaborations and other topics</a></h4>
+      <h4><a href="research/other">Collaborations and other topics</a></h4>
     </div>
     <div class="item__body">
       <p>Diversity is key in many aspect of life, also in research. Tackling different problems widens horizons, contributes skill development and better equips one for future challenges. One of such projects is the structural characterization of human myotilin and its role in organization of the sarcomeric Z-disc protein complex (collaboration with Prof. Kristina Djinović-Carugo). Another topic is non-canonical structural DNA motifs (G-quadruplexes and other structures), specifically proteins recognizing them and binding to them (collaboration with Prof. Janez Plavec).</p>
