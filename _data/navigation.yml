@@ -1,0 +1,27 @@
+header:
+  - title: Research
+    url: research
+  - title: Teaching
+    url: teaching
+  - title: About
+    url: about
+
+research:
+  - title:       Research
+    children:
+      - title:   Intro
+        url:     research
+      - title:   Skills
+        url:     research/skills
+      - title:   Publications
+        url:     research/publications
+  - title:       Topics
+    children:
+      - title:   EpCAM & Trop2
+        url:     research/epcam_trop2
+      - title:   Testicans
+        url:     research/testicans
+      - title:   Actinins
+        url:     research/actinins
+      - title:   Other topics
+        url:     research/other

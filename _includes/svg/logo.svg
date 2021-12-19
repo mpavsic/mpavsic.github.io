@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="logo_ver02.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.30045361"
+     inkscape:cx="868.68652"
+     inkscape:cy="-331.16593"
+     inkscape:window-width="1424"
+     inkscape:window-height="852"
+     inkscape:window-x="1730"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path931"
+       style="fill:#ffcc00;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stop-color:#000000"
+       d="M 250 0 A 250.00001 250.00001 0 0 0 191.13867 7.1328125 L 282.42188 232.57422 A 37.5 37.5 0 0 1 261.73828 281.40625 A 37.5 37.5 0 0 1 212.9043 260.72266 L 121.72852 35.548828 A 250.00001 250.00001 0 0 0 0 250 A 250.00001 250.00001 0 0 0 250 500 A 250.00001 250.00001 0 0 0 500 250 A 250.00001 250.00001 0 0 0 250 0 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
