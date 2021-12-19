@@ -35,7 +35,7 @@ Contact details:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="images/res_topic_epcam.png"/>
+    <img class="image image--lg" src="research/images/res_topic_epcam.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -51,7 +51,7 @@ Contact details:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="images/res_topic_testicans.png"/>
+    <img class="image image--lg" src="research/images/res_topic_testicans.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -67,7 +67,7 @@ Contact details:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="images/res_topic_actinins.png"/>
+    <img class="image image--lg" src="research/images/res_topic_actinins.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -83,7 +83,7 @@ Contact details:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="images/res_topic_other.png"/>
+    <img class="image image--lg" src="research/images/res_topic_other.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
