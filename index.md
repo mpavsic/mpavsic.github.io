@@ -1,6 +1,6 @@
 ---
 layout: article
-title: mpavsic digital home
+title: Miha Pavšič
 show_title: false
 key: index
 article_header:
