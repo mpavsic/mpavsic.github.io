@@ -26,8 +26,16 @@ Contact details:
 : <i class="fas fa-at"></i> [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si)
 : 2nd floor, hallway 2A, room no. 2011
 
----
+## Group members
 
+Current group members:
+- **Tomaž Žagar** (MSc Biochem), doctoral student, working on EpCAM proteolytic cleavages and interactome
+- **Jošt Hočevar** (MSc Biochem), doctoral student, working on several aspects of α-actinin-1 and -4 regulation (hetero-oligomerization, calcium ions, post-translational modifications)
+- **Andrej Ivanovski** (BSc Biochem), masters stuudent, working on α-actinin-4 regulation by calcium ions
+- **Aljaž Simonič**, diploma student, working on EpCAM and Trop2 dynamics
+- **Nika Tomsić**, diploma student
+
+---
 
 ## Current research topics
 
