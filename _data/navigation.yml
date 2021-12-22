@@ -11,10 +11,12 @@ research:
     children:
       - title:   Intro
         url:     research
-      - title:   Skills
-        url:     research/skills
+      - title:   Group members
+        url:     research/group
       - title:   Publications
         url:     research/publications
+      - title:   Skills
+        url:     research/skills
   - title:       Topics
     children:
       - title:   EpCAM & Trop2
