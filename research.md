@@ -19,13 +19,6 @@ My research is conducted at the [Faculty of Chemistry and Chemical Technology](h
 My **Open Researcher and Contributor** profile is available via the ORCID link below:
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2230-1758" href="https://orcid.org/0000-0002-2230-1758" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2230-1758</a></div>
 
-Contact details:
-: <i class="fas fa-building"></i> University of Ljubljana, Faculty of Chemistry and Chemical Technology, Chair of Biochemistry
-: <i class="fas fa-globe-europe"></i> Večna pot 113, SI-1000 Ljubljana, Slovenia
-: <i class="fas fa-phone"></i> +386 1 479 8550
-: <i class="fas fa-at"></i> [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si)
-: 2nd floor, hallway 2A, room no. 2011
-
 ---
 
 ## Current research topics

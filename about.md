@@ -28,12 +28,20 @@ Education
 Work
 : During my Ph.D. study, I worked as a young researcher at [Jožef Stefan Institute](https://www.ijs.si), [Department of Biochemistry, Molecular and Structural Biology](https://www.ijs.si/ijsw/Biochemistry%20and%20Molecular%20Biology%20B1).
 : Currently, I'm employed as a **researcher**, **assistant** and **teacher** at the [Faculty of Chemistry and Chemical Technology](https://www.fkkt.uni-lj.si/) at the [University of Ljubljana](https://www.uni-lj.si/).
-: *Please, see [Research](research/intro) and Teaching sections for more details.*
+: *Please, see [Research](research) and [Teaching](teaching) sections for more details.*
 
 Professional profiles
 : [ORCiD: 0000-0002-2230-1758](https://orcid.org/0000-0002-2230-1758)
 : [LinkedIn: mpavsic](https://www.linkedin.com/in/mpavsic)
 : [ResearchGate](https://www.researchgate.net/profile/Miha-Pavsic)
+
+Contact
+: <i class="fas fa-building"></i> University of Ljubljana, Faculty of Chemistry and Chemical Technology, Chair of Biochemistry
+: <i class="fas fa-globe-europe"></i> Večna pot 113, SI-1000 Ljubljana, Slovenia
+: <i class="fas fa-phone"></i> +386 1 479 8550
+: <i class="fas fa-at"></i> [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si)
+: 2nd floor, hallway 2A, room no. 2011
+: *Feel free to use the links/icons at the bottom of the page to contact me.*
 
 Free time
 : My favourite freetime activities:
@@ -41,8 +49,6 @@ Free time
 : <i class="fas fa-map-marked-alt"></i> geo-mapping, and
 : <i class="fas fa-mountain"></i> (mountain) hiking .
 
-Contact
-: Feel free to use the links/icons at the bottom of the page to contact me.
 </div>
 </div>
 </div>
