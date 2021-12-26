@@ -39,4 +39,4 @@ Since the start of my work at UL FCCT, I've been involved in conducting practica
 
 ## Mentoring
 
-Mentoring is an integral and very important part of pedagogical work. Since 2015, I have been a mentor to 13 students during their BSc theses, to 7 masters' students, and 1 doctoral student. Currently, I am mentor to 3 diploma, 1 masters' and 2 doctoral students.
+Mentoring is an integral and very important part of pedagogical work. Since 2015, I have been a mentor to 13 students during their BSc theses, to 7 masters' students, and 1 doctoral student. Currently, I am mentor to 3 BSc, 1 MSc and 2 PhD students.
