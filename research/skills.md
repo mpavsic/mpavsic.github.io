@@ -24,6 +24,7 @@ A brief outline of my research skills (aka "what I can do"):
 - **structural biology**:
   - X-ray crystallography - all structure determination steps, i.e. from crystallization through diffraction data collection to phasing, model building and refinement
   - small angle X-ray scattering (SAXS) - all steps from sample preparation to data analysis and interpretation (*ab initio* and model-supported modeling, ...)
+    - *watch video [here](https://www.embl.org/news/lab-matters/embl-hamburg-trains-future-generations-in-saxs/){:target="_blank"}*
   - molecular dynamics (MD) simulation of biological systems (all-atom and coarse-grained MD simulations) - all steps from system preparation to simulation, analysis and interpretation
   - modeling of proteins and nucleic acids, both *ab initio* as well as template-based and restraints-guided modeling, including (macro)molecular docking
   - advanced molecular graphics in UCSF Chimera and PyMOL
