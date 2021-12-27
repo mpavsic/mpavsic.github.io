@@ -14,6 +14,8 @@ Carcinomas, cancers of epithelial origin, account for the vast majority of human
 
 EpCAM and Trop2 are **transmembrane glycoproteins** of approx. 30 kDa - the ectodomain composed of three domains is via a single transmembrane helix connected to the short cytosolic tail ([Fig. 1](#fig1)).
 
+<br/>
+
 <a name="fig1"></a>
 
 ![overview](images/epcam_trop2_overview.png)
@@ -22,6 +24,8 @@ EpCAM and Trop2 are **transmembrane glycoproteins** of approx. 30 kDa - the ecto
 <br/>
 
 EpCAM and Trop2 exert their functions though a **cascade of proteolytic events** at various sites within the ectodomain and transmembrane region (RIP - regulated intramembrane proteolysis, [Fig.2](#fig2); EpCAM proteolysis was described by our collaborator Prof. Olivier Gires, LMU München). These events eventually lead to the release and recruitment of their cytosolic tail into a nuclear complex involved in enchanced cell proliferation. Also, EpCAM and Trop2 are involved in interaction with several cell-surface proteins with implications in cell proliferation and epithelial-mesesenchymal transition.
+
+<br/>
 
 <a name="fig2"></a>
 
@@ -40,6 +44,8 @@ The most important achievements are detailed structural descriptions of the larg
 
 The structure of EpCAM ([Fig. 3](#fig3)) indicated that the ectodomain forms a **heart-shaped dimer** on the cells' surface where the **N-glycan chains help in maintaining the relative orientation** of the dimer with regard to the membrane plane. The structue provided the first insight into the accessibility of signaling-associated cleavage events where at least **partial dimer dissociation** appears to be neccessary for the initial cleavage to occur. Also, it demonstrated that cleavage with the TY loop, detected also *in vivo*, **destabilizes the dimer**. The structure also provided a possible explanation for the **high immunogenicity of the most exposed N-terminal domain**. In 2020, we published a **state-of-the-art review on EpCAM focusing on structure-function** relationship ([Gaber et al., *Cells*](https://doi.org/10.1038/s41598-018-31482-7){:target="_blank"}).
 
+<br/>
+
 <a name="fig3"></a>
 
 ![epcamstructure](images/epcam_trop2_epcam.png)
@@ -48,6 +54,8 @@ The structure of EpCAM ([Fig. 3](#fig3)) indicated that the ectodomain forms a *
 <br/>
 
 While **Trop2 shares a lof of overall structural features with EpCAM**, there are some **important differences** as revealed by the Trop2 ectodomain dimer structure ([Fig. 4](#fig4)): **the dimerization interface is larger** and appears to provide stronger subunit-subunit interactions than in EpCAM, **the relative orientation of small the N-terminal domain** with regard to the rest of the molecule is substationally different, and **the membrane-distal region is flatter** than in EpCAM. These differences are linked to the divergent evolutionary path the molecules took after the retroposition event giving rise to the Trop2 gene, and the implications of these structural differences in the function of these two molecules is in focus of our research efforts.
+
+<br/>
 
 <a name="fig4"></a>
 
@@ -60,6 +68,7 @@ While **Trop2 shares a lof of overall structural features with EpCAM**, there ar
 
 Using molecular dynamics simulations of EpCAM and Trop2 transmembrane helix, embedded in a lipid bilayer, I have demonstrated that **TM helices of both proteins can form stable homo-dimeric assembly** thereby additionally stabilizing the EpCAM/Trop2 dimer ([Fig. 5](#fig5)). This was separately shown both for EpCAM ([Pavšič et al., *Nat Commun*](https://doi.org/10.1038/ncomms5764){:target="_blank"}) and for Trop2 ([Pavšič et al., *Sci Rep*](https://doi.org/10.1038/srep10324){:target="_blank"}).
 
+<br/>
 
 <a name="fig5"></a>
 
@@ -73,6 +82,8 @@ TM helix dimerization could be implicated in intramembrane proteolysis of EpCAM 
 ### Cytosolic tail
 
 In a joint effort with PhD student Tilen Vidmar and the group of Prof. Janez Plavec (National Institute of Chemistry, Ljubljana) we demonstrated that while the cytosolic tail of EpCAM is most probably unstructured, **the cytosolic tail of Trop2 features a central α-helix**. Here, **phoshphorylation** at Ser303, identified by other researchers, triggers a **conformational change** with ordering of the C-terminus ([Fig. 6](#fig6)), resulting in a more compact structure with implications in altered interactions with other proteins, e.g. protein kinase Cδ.
+
+<br/>
 
 <a name="fig6"></a>
 

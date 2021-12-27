@@ -16,6 +16,8 @@ show_edit_on_github: false
 
 We focus on the the most dynamic type of cytoskeleton—**the actin cytoskeleton**, where actin filaments are organized into 3D-networks or tightly packed bundles held together by **ubiquitous proteins α-actinin-1 and -4**. They self-associate to form **homo-dimeric crosslinking units** with actin-binding region located at each end ([Fig. 1](#fig1)).
 
+<br/>
+
 <a name="fig1"></a>
 
 ![project_overview](images/actn_dimer.png)
@@ -24,6 +26,8 @@ We focus on the the most dynamic type of cytoskeleton—**the actin cytoskeleton
 <br/>
 
 In particular, we are interested how the crosslinking mode of these two α-actinins is regulated. The main aspect appears to be **calcium-binding** to a specific region within α-actinin, and we hypothesize that α-actinin phosphorylation and association of both species to form **heterogeneous dimeric complexes** further adds to the complexity of this regulatory mechanism ([Fig. 2](#fig2)). By studying these events at the detailed molecular level, we aim to answer **how α-actinin-1 and -4 conformational plasticity is modulated by calcium binding**. This will in turn help to understand the regulation of adhesion contacts, cell protrusions and stress fibers, which are structures pivotal for cell adhesion and movement. Also, the results will deepen the understanding of structure and function of fundamental proteins α-actinin-1 and -4, pave the way for better understanding of the molecular basis of actinin-associated disease, and contribute to development of novel cell‐based technologies.
+
+<br/>
 
 <a name="fig2"></a>
 

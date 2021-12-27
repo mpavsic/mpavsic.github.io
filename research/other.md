@@ -27,6 +27,8 @@ In collaboration with the group of [Prof. Janez Plavec](http://www.slonmr.si/per
 
 While most of the work is still in progress, we already managed to establish a proof-of-concept system for identification of interaction partners of linear and other DNA motifs. The system based on proximity biotinylation by promiscuous biotin ligase ([Fig. 1](#fig1)) is described in theses of **Andreja Habič** (mentor: Miha Pavšič): [Development of a System for DNA-Protein Interaction Partners Discovery Based on Biotin Proximity Labeling](https://plus.si.cobiss.net/opac7/bib/1538309571){:target="_blank"} (BSc thesis, *in Slovene*) and [Characterisation,  Optimisation  and  Validation  of  a  System  for  DNA-Protein  Interaction Partners Discovery Based on Biotin Proximity Labeling](https://plus.si.cobiss.net/opac7/bib/78992131){:target="_blank"} (MSc thesis, *in Slovene*).
 
+<br/>
+
 <a name="fig1"></a>
 
 ![dipid_overview](images/other_dipid.png)
