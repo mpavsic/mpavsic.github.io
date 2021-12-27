@@ -19,6 +19,7 @@ EpCAM and Trop2 are **transmembrane glycoproteins** of approx. 30 kDa - the ecto
 ![overview](images/epcam_trop2_overview.png)
 **Figure 1**: **Topological and structural overview of EpCAM and Trop2.** Domain compostion of EpCAM and Trop2 (below) with structures of corresponding individual domains of EpCAM (above; PDB ID [4MZV](https://www.rcsb.org/structure/4MZV){:target="_blank"}). The small N-terminal domain (ND) has a core composed of three tightly-packed disulfide bridges, while the thyroglubulin domain (TY) features a characteristic disulfide linkage and long loop involved in EpCAM dimer stabilization.
 
+<br/>
 
 EpCAM and Trop2 exert their functions though a **cascade of proteolytic events** at various sites within the ectodomain and transmembrane region (RIP - regulated intramembrane proteolysis, [Fig.2](#fig2); EpCAM proteolysis was described by our collaborator Prof. Olivier Gires, LMU München). These events eventually lead to the release and recruitment of their cytosolic tail into a nuclear complex involved in enchanced cell proliferation. Also, EpCAM and Trop2 are involved in interaction with several cell-surface proteins with implications in cell proliferation and epithelial-mesesenchymal transition.
 
@@ -26,6 +27,8 @@ EpCAM and Trop2 exert their functions though a **cascade of proteolytic events**
 
 ![rip](images/epcam_trop2_rip.png)
 **Figure 2**: **Regulated intramembrane proteolysis of EpCAM.** Shown is an overview of the events, and the cleavage process of Trop2 is similar.
+
+<br/>
 
 ## Contribution to the field
 
@@ -42,12 +45,16 @@ The structure of EpCAM ([Fig. 3](#fig3)) indicated that the ectodomain forms a *
 ![epcamstructure](images/epcam_trop2_epcam.png)
 **Figure 3**: **Structure of human EpCAM ectodomain.** (**a**) The three domains (N-terminal (ND), thyroglobulin (TY) and C-terminal domain (CD)) form a compact triangular arrangement. For crystallization, the three Asn residues were mutated to Gln to achieve higher sample homogeneiety. Cleavage at the protease-sensitive site within TY (arrow) destabilizes the ectodomain dimer. (**b**) Asn-attached glycan chains help in orienting the heart-shaped dimer with regard to the membrane plane (glycans were modeled). *Figure re-done using parts of figures from the published paper [Gaber et al., Cells, 2020](https://doi.org/10.3390/cells9061361){:target="_blank"} under Creative Common CC BY license.*
 
+<br/>
+
 While **Trop2 shares a lof of overall structural features with EpCAM**, there are some **important differences** as revealed by the Trop2 ectodomain dimer structure ([Fig. 4](#fig4)): **the dimerization interface is larger** and appears to provide stronger subunit-subunit interactions than in EpCAM, **the relative orientation of small the N-terminal domain** with regard to the rest of the molecule is substationally different, and **the membrane-distal region is flatter** than in EpCAM. These differences are linked to the divergent evolutionary path the molecules took after the retroposition event giving rise to the Trop2 gene, and the implications of these structural differences in the function of these two molecules is in focus of our research efforts.
 
 <a name="fig4"></a>
 
 ![trop2structure](images/epcam_trop2_trop2.png)
 **Figure 4**: **Comparison structural features of EpCAM and Trop2.** (**a**) Structure superposition of human [EpCAM](https://www.rcsb.org/structure/4MZV) and [Trop2](https://www.rcsb.org/structure/7PEE) reveals a very similar overall fold. (**b**) While the overall fold of the small N-terminal domain is similar in EpCAM and Trop2, the structural differences revealed by the structure superposition and the low sequence identity (33 %) indicates significant divergence of this most immunogenic part of the molecule. (**c**) Surface representation of EpCAM and Trop2 ectodomains depicting difefernt N-terminal domain orientation and a flatter membrane-distal part of the molecule, further highlighting the divergent evolutionary path of EpCAM and Trop2. *Figure reused from the published paper [Pavšič, Int J Mol Sci, 2021](https://doi.org/10.3390/ijms221910640){:target="_blank"} under Creative Common CC BY license.*
+
+<br/>
 
 ### TM region
 
@@ -59,6 +66,8 @@ Using molecular dynamics simulations of EpCAM and Trop2 transmembrane helix, emb
 ![tmmd](images/epcam_trop2_tm.png)
 **Figure 5**: **Dimerization of TM region of EpCAM**. To investigate how transmembrane helix of two EpCAM molecules comes together to form a dimer (**a**), two copies of the cannonical helix (EpCAM amino acid sequence) were embedded in a lipid bilayer, surrounded by water layer, coarse-grained and equilibrated (2 microseconds) in a series of several molecular dynamics simulations (**b**). The final model of the EpCAM TM helix dimer reveals that the tetravaline motif together with the neighbouring Ile residue is the driving force for dimerization. Similarly was shown for the Trop2 with a pentavaline motif where several favourable dimers were identified.
 
+<br/>
+
 TM helix dimerization could be implicated in intramembrane proteolysis of EpCAM and Trop2 by γ-secretase, as described in collaboration with the group of Prof. Olivier Gires, LMU München, Germany ([Tsaktanis et. al, *J Biol Chem*](https://doi.org/10.1074/jbc.M115.662700){:target="_blank"}).
 
 ### Cytosolic tail
@@ -69,6 +78,8 @@ In a joint effort with PhD student Tilen Vidmar and the group of Prof. Janez Pla
 
 ![tmmd](images/epcam_trop2_ic.png)
 **Figure 6**: **Cytosolic tail of Trop2 as a phosphorylation-triggered switch**. Phosphorylation at Ser303 triggers salt bridge reshuffling, coupled to conformational changes - ordering of the C-teminal part. Trop2IC and Trop2ICP are non-phosphorylated and phosphorylated forms of the cytosolic tail, respectively.
+
+<br/>
 
 ## Our current challenges
 

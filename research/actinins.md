@@ -21,12 +21,16 @@ We focus on the the most dynamic type of cytoskeleton—**the actin cytoskeleton
 ![project_overview](images/actn_dimer.png)
 **Figure 1**: **Model of a homo-dimer of human α-actinin-1** which applies equally well to the α-actinin-4.
 
+<br/>
+
 In particular, we are interested how the crosslinking mode of these two α-actinins is regulated. The main aspect appears to be **calcium-binding** to a specific region within α-actinin, and we hypothesize that α-actinin phosphorylation and association of both species to form **heterogeneous dimeric complexes** further adds to the complexity of this regulatory mechanism ([Fig. 2](#fig2)). By studying these events at the detailed molecular level, we aim to answer **how α-actinin-1 and -4 conformational plasticity is modulated by calcium binding**. This will in turn help to understand the regulation of adhesion contacts, cell protrusions and stress fibers, which are structures pivotal for cell adhesion and movement. Also, the results will deepen the understanding of structure and function of fundamental proteins α-actinin-1 and -4, pave the way for better understanding of the molecular basis of actinin-associated disease, and contribute to development of novel cell‐based technologies.
 
 <a name="fig2"></a>
 
 ![project_overview](images/actn_project_overview.jpg)
 **Figure 2**: **Project overview.** Modulation of actin-binding of α-actinin by calcium ions, and implication of heterodimerization and post-translational modifications in the modulation mechanism.
+
+<br/>
 
 Our research efforts are supported by the previous research results of the team where PhD student **Sara Drmota Prebil** demonstrated that the calmodulin-like domain (CaMD) of human α-actinin-1 binds a single calcium ion, and binding leads to ordering of the otherwise flexbile linker region within the CaMD ([Drmota Prebil et al., *Sci Rep*, 2016](https://doi.org/10.1038/srep27383){:target="_blank"}).
 

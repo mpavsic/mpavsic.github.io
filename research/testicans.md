@@ -19,6 +19,8 @@ Testicans-1, -2 and -3 are proteoglycans of the **BM-40/osteonectin/SPARC protei
 ![overview](images/testicans_overview.png)
 **Figure 1**: **Overview of testican-2 domain organization.** Shown below are homology models of individual domains.
 
+<br/>
+
 ## Contribution to the field
 
 Focusing on testican-2 as the representative member of the protein group, we have demonstratated ([Krajnc et al., *Int J Mol Sci*](https://doi.org/10.3390/ijms21249413){:target="_blank"}):
@@ -30,6 +32,8 @@ Focusing on testican-2 as the representative member of the protein group, we hav
 
 ![overview](images/testicans_saxs_model.png)
 **Figure 2**: **Testican-2 structural model derived using small angle X-ray scattering data (SAXS).** (**a**) The *ab initio* DAMMIF model of testican-2 contruct encompassing unique-FS-EC-TY domains, and (**b**) EOM model ensemble of the same construct fitted into the DAMMIF-generated envelope.
+
+<br/>
 
 ## Our current challenges
 
