@@ -1,11 +1,14 @@
 ---
 layout: article
 title: Group members
+show_title: false
 aside:
   toc: true
 sidebar:
   nav: research
 ---
+
+# Group members
 
 ## Current members
 

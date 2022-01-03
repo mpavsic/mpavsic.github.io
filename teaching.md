@@ -1,9 +1,12 @@
 ---
 layout: article
 title: Teaching
+show_title: false
 aside:
   toc: true
 ---
+
+# Teaching
 
 I work as full-time assistant at the [Faculty of Chemistry and Chemical Technology](https://www.fkkt.uni-lj.si/){:target="_blank"}, [University of Ljubljana](https://www.uni-lj.si/){:target="_blank"} (UL FCCT), **Chair of Biochemistry**. Here, I conduct [practicals](#practicals), mainly for the students of BSc and MSc study programme of Biochemistry, and work also as a [lecturer](#lecturing).
 

@@ -1,12 +1,15 @@
 ---
 layout: article
 title: Other topics
+show_title: false
 aside:
   toc: true
 sidebar:
   nav: research
 show_edit_on_github: false
 ---
+
+# Other topics
 
 I am involved in several scientific collaborations, with two of the most intense ones involving **human muscle protein myotilin** and **non-canonical DNA structural motifs**.
 

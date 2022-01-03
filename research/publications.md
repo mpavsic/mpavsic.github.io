@@ -1,11 +1,14 @@
 ---
 layout: article
 title: Publications
+show_title: false
 aside:
   toc: true
 sidebar:
   nav: research
 ---
+
+# Publications
 
 ## Scientific publications
 

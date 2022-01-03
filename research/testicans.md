@@ -1,12 +1,15 @@
 ---
 layout: article
 title: Testicans
+show_title: false
 aside:
   toc: true
 sidebar:
   nav: research
 show_edit_on_github: false
 ---
+
+# Testicans
 
 ## Introduction
 
