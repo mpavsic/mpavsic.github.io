@@ -27,7 +27,7 @@ Since the start of my work at UL FCCT, I've been involved in conducting practica
   - [Practical Course in Biochemistry](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/BIOKEMIJSKI_PRAKTIKUM_2021-2022.pdf){:target="_blank"}
   - [Biochemical Informatics](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/BIOKEMIJSKA_INFORMATIKA_2021-2022.pdf){:target="_blank"}
   - [Structure of Proteins](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/STRUKTURA_PROTEINOV_2021-2022.pdf){:target="_blank"}
-  - [Enzymatics](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/ENCIMATIKA_2021-2022.pdf){:target="_blank"}
+  - [Enzymology](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/ENCIMATIKA_2021-2022.pdf){:target="_blank"}
   - [Molecular Fundamentals of Life Sciences](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1-Kemija_2021-2022/MOLEKULARNE_OSNOVE_VED_O_ZIVLJENJU_2021-2022.pdf){:target="_blank"}
   - [Biological Chemistry](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1-Kemija_2021-2022/BIOLOSKA_KEMIJA_2021-2022.pdf){:target="_blank"}
   - Applied Enzymology
