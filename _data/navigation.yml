@@ -15,8 +15,6 @@ research:
         url:     /research/group
       - title:   Publications
         url:     /research/publications
-      - title:   Skills
-        url:     /research/skills
   - title:       Topics
     children:
       - title:   EpCAM & Trop2
