@@ -78,7 +78,7 @@ sidebar:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="images/gro_avatar_m.png"/>
+    <img class="image image--sm" src="images/gro_asimonic.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
