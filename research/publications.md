@@ -63,4 +63,5 @@ sidebar:
 
 ## Other publications
 
-**Miha Pavšič**. 2018. “(Po)moč evolucije. Nobelova nagrada za kemijo.” *Proteus* 81 (3): 102–108. [Proteus letnik 81](https://www.proteus.si/letnik-81/), [Issuu](https://issuu.com/prirodoslovno.drustvo/docs/proteus_november_2018_za_net)
+1. Aljaž Gaber, Uroš Prešern, Špela Konjar, **Miha Pavšič**. "Vloga proteinov na površini rakavih celic pri odkrivanju in zdravljenju rakavih oboljenj." [Proteus letnik 84](https://www.proteus.si/letnik-83/), št. 3, 102-110. *(article in Slovene; English title: The Role of Cell-Surface Proteins in Cancer Diagnosis and Treatment)*
+2. **Miha Pavšič**. 2018. “(Po)moč evolucije. Nobelova nagrada za kemijo.” *Proteus* 81 (3): 102–108. [Proteus letnik 81](https://www.proteus.si/letnik-81/), št. 3, 102-108. [Issuu](https://issuu.com/prirodoslovno.drustvo/docs/proteus_november_2018_za_net) *(article in Slovene; English title: Help and Power of Evolution. Nobel Prize for Chemistry)*
