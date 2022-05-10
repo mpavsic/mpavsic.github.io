@@ -115,8 +115,8 @@ Despite considerable advancement in the field, fuelled also by our crystal struc
 ---
 
 ## Related publications
-1. **Miha Pavšič**. 2021. “Trop2 Forms a Stable Dimer with Significant Structural Differences within the Membrane-Distal Region as Compared to EpCAM.” *International Journal of Molecular Sciences* 22(19): 10640. [10.3390/ijms221910640](https://doi.org/10.3390/ijms221910640){:target="_blank"} `RECENT`{:.success}
-2. **Miha Pavšič**. 2021. "Dataset and analysis of molecular dynamics simulation of EpCAM ectodomain dimer." *Data in Brief* 38: 107403. [10.1016/j.dib.2021.107403](https://doi.org/10.1016/j.dib.2021.107403){:target="_blank"} `RECENT`{:.success}
+1. **Miha Pavšič**. 2021. “Trop2 Forms a Stable Dimer with Significant Structural Differences within the Membrane-Distal Region as Compared to EpCAM.” *International Journal of Molecular Sciences* 22(19): 10640. [10.3390/ijms221910640](https://doi.org/10.3390/ijms221910640){:target="_blank"}
+2. **Miha Pavšič**. 2021. "Dataset and analysis of molecular dynamics simulation of EpCAM ectodomain dimer." *Data in Brief* 38: 107403. [10.1016/j.dib.2021.107403](https://doi.org/10.1016/j.dib.2021.107403){:target="_blank"}
 3. Tomaž Žagar, **Miha Pavšič**, and Aljaž Gaber. 2021. "Destabilization of EpCAM dimer is associated with increased susceptibility towards cleavage by TACE." *PeerJ* 3: e11484. [10.7717/peerj.11484](https://doi.org/10.7717/peerj.11484){:target="_blank"}
 4. Aljaž Gaber, Brigita Lenarčič, and **Miha Pavšič**. 2020. “Current View on EpCAM Structural Biology.” *Cells* 9 (6): 1361. [10.3390/cells9061361](https://doi.org/10.3390/cells9061361)
 5. Aljaž Gaber, Seung Joong Kim, Robyn M. Kaake, Mojca Benčina, Nevan Krogan, Andrej Šali, **Miha Pavšič**, and Brigita Lenarčič. 2018. “EpCAM Homo-Oligomerization Is Not the Basis for Its Role in Cell-Cell Adhesion.” *Scientific Reports* 8 (1): 13269. [10.1038/s41598-018-31482-7](https://doi.org/10.1038/s41598-018-31482-7)
