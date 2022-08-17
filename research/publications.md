@@ -12,6 +12,9 @@ sidebar:
 
 ## Scientific publications
 
+### 2022
+1. Nicola Landi, Maja Grundner, Sara Ragucci, **Miha Pavšič**, Martina Mravinec, Paolo V. Pedone, Kristina Sepčić, and Antimo Di Maro. 2022. "Characterization and cytotoxic activity of ribotoxin-like proteins from the edible mushroom *Pleurotus eryngii*." *Food Chemistry* 396: 133655. [10.1016/j.foodchem.2022.133655](https://doi.org/10.1016/j.foodchem.2022.133655)
+
 ### 2021
 1. **Miha Pavšič**. 2021. “Trop2 Forms a Stable Dimer with Significant Structural Differences within the Membrane-Distal Region as Compared to EpCAM.” *International Journal of Molecular Sciences* 22 (19): 10640. [10.3390/ijms221910640](https://doi.org/10.3390/ijms221910640)
 2. **Miha Pavšič**. 2021. “Dataset and Analysis of Molecular Dynamics Simulation of EpCAM Ectodomain Dimer.” *Data in Brief* 38 (October): 107403. [10.1016/j.dib.2021.107403](https://doi.org/10.1016/j.dib.2021.107403)
