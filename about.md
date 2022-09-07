@@ -36,18 +36,18 @@ Professional profiles
 : [ResearchGate](https://www.researchgate.net/profile/Miha-Pavsic)
 
 Contact
-: <i class="fas fa-building"></i> University of Ljubljana, Faculty of Chemistry and Chemical Technology, Chair of Biochemistry
-: <i class="fas fa-globe-europe"></i> Večna pot 113, SI-1000 Ljubljana, Slovenia
-: <i class="fas fa-phone"></i> +386 1 479 8550
-: <i class="fas fa-at"></i> [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si)
+: University of Ljubljana, Faculty of Chemistry and Chemical Technology, Chair of Biochemistry
+: Večna pot 113, SI-1000 Ljubljana, Slovenia
+: phone: +386 1 479 8550
+: [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si)
 : 2nd floor, hallway 2A, room no. 2011
 : *Feel free to use the links/icons at the bottom of the page to contact me.*
 
 Free time
 : My favourite freetime activities:
-: <i class="fas fa-bicycle"></i> cycling,
-: <i class="fas fa-map-marked-alt"></i> geo-mapping, and
-: <i class="fas fa-mountain"></i> (mountain) hiking .
+: - cycling,
+: - geo-mapping, and
+: - (mountain) hiking .
 
 </div>
 </div>
