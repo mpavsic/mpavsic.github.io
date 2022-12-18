@@ -8,13 +8,16 @@ aside:
 
 # Teaching
 
-I work as full-time assistant at the [Faculty of Chemistry and Chemical Technology](https://www.fkkt.uni-lj.si/){:target="_blank"}, [University of Ljubljana](https://www.uni-lj.si/){:target="_blank"} (UL FCCT), **Chair of Biochemistry**. Here, I conduct [practicals](#practicals), mainly for the students of BSc and MSc study programme of Biochemistry, and work also as a [lecturer](#lecturing).
+I work as full-time lecturer at the [Faculty of Chemistry and Chemical Technology](https://www.fkkt.uni-lj.si/){:target="_blank"}, [University of Ljubljana](https://www.uni-lj.si/){:target="_blank"} (UL FCCT), **Chair of Biochemistry** at all three study levels (BSc, MSc, PhD).
 
 ## Lecturing
 
 Since 2015, I have been teaching the complete mandatory subject of [Biochemical Informatics](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/BIOKEMIJSKA_INFORMATIKA_2021-2022.pdf){:target="_blank"} of the 2<sup>nd</sup> year of the BSc study of [Biochemistry](https://www.fkkt.uni-lj.si/en/study/first-cycle-study-programmes/university-study-programme-biochemistry-20212022/){:target="_blank"}. The topics include biochemical and biological databases, sequence alignments, basics of molecular phylogeny, structural bioinformatics, graph theory and others. For the practicals at this subject, I've also created a website [Biokemijska informatika](https://mpavsic.github.io/biokeminfo/){:target="_blank"} (*in Slovene*) featuring exercises, which will be further supplemented in the following study years.
 
-In study year 2021/2022 I'll start to teach the elective subject [Biomacromolecules in Industry and Medicine](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/BIOMAKROMOLEKULE_V_INDUSTRIJI_IN_MEDICINI_2021-2022_01.pdf){:target="_blank"} representing a synthesis of biochemical and molecular biology theory and practice.
+In the study year 2021/2022 I started to teach the following subjects:
+- [Fundamentals of Biochemistry](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/TEMELJI_BIOKEMIJE_2021-2022.pdf)
+- [Practical Biochemistry](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/BIOKEMIJSKI_PRAKTIKUM_2021-2022.pdf)
+- [Biomacromolecules in Industry and Medicine](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/1-Bolonjski_programi_1._stopnje/1a-Biokemija_2021-2022/BIOMAKROMOLEKULE_V_INDUSTRIJI_IN_MEDICINI_2021-2022_01.pdf){:target="_blank"}, an elective subject representing a synthesis of biochemical and molecular biology theory and practice
 
 I'm also involved in teaching at two **doctoral study programmes**:
 - [Chemical Sciences](https://www.fkkt.uni-lj.si/en/study/third-cycle-study-programme/){:target="_blank"} at **UL FCCT**, subject [Selected Topics in Biochemistry](https://www.fkkt.uni-lj.si/fileadmin/datoteke/2-%C5%A0tudij/3-Bolonjski_programi_3._stopnje/1-Kemijske_znanosti/2016_predmeti/KZ311-2020-Izbr-pogl-iz-biokemije.pdf){:target="_blank"}
