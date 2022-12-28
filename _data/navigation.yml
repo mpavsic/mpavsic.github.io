@@ -1,27 +1,27 @@
 header:
   - title: Research
-    url: /research
+    url: https://mpavsic.github.io/research
   - title: Teaching
-    url: /teaching
+    url: https://mpavsic.github.io/teaching
   - title: About
-    url: /about
+    url: https://mpavsic.github.io/about
 
 research:
   - title:       Research
     children:
       - title:   Intro
-        url:     /research
+        url:     https://mpavsic.github.io/research
       - title:   Group members
-        url:     /research/group
+        url:     https://mpavsic.github.io/research/group
       - title:   Publications
-        url:     /research/publications
+        url:     https://mpavsic.github.io/research/publications
   - title:       Topics
     children:
       - title:   EpCAM & Trop2
-        url:     /research/epcam_trop2
+        url:     https://mpavsic.github.io/research/epcam_trop2
       - title:   Testicans
-        url:     /research/testicans
+        url:     https://mpavsic.github.io/research/testicans
       - title:   Actinins
-        url:     /research/actinins
+        url:     https://mpavsic.github.io/research/actinins
       - title:   Other topics
-        url:     /research/other
+        url:     https://mpavsic.github.io/research/other
