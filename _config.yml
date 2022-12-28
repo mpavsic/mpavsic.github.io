@@ -3,7 +3,7 @@ remote_theme: kitian616/jekyll-TeXt-theme
 
 text_skin: miha # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # https://mpavsic.github.io
+url     : https://mpavsic.github.io # https://mpavsic.github.io
 baseurl : # does not include hostname
 title   : "Miha Pavšič"
 description: # description
