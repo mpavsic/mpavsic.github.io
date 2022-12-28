@@ -62,22 +62,6 @@ sidebar:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="images/gro_ntomsic.jpg"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Nika Tomsić</h4>
-    </div>
-    <div class="item__body">
-      <p>After enthusiastically spending some free time in the lab during the summer, Nika "officially" joined the group in 2021 as a BSc student with interest in tumor marker EpCAM.</p>
-    </div>
-  </div>
-</div>
-
-<br/>
-
-<div class="item">
-  <div class="item__image">
     <img class="image image--sm" src="images/gro_asimonic.jpg"/>
   </div>
   <div class="item__content">
@@ -93,6 +77,22 @@ sidebar:
 <br/>
 
 ## Former members
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--sm" src="images/gro_ntomsic.jpg"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Nika Tomsić</h4>
+    </div>
+    <div class="item__body">
+      <p>After enthusiastically spending some free time in the lab during the summer, Nika joined the group in 2021 as a BSc student with interest in tumor marker EpCAM.</p>
+    </div>
+  </div>
+</div>
+
+<br/>
 
 <div class="item">
   <div class="item__image">
