@@ -46,22 +46,6 @@ sidebar:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="images/gro_aivanovski.jpg"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Andrej Ivanovski</h4>
-    </div>
-    <div class="item__body">
-      <p>Already a member of group since his diploma, Andrej's focus is on α-actinin-4, the other of the calcium-sensitive human α-actinins.</p>
-    </div>
-  </div>
-</div>
-
-<br/>
-
-<div class="item">
-  <div class="item__image">
     <img class="image image--sm" src="images/gro_asimonic.jpg"/>
   </div>
   <div class="item__content">
@@ -77,6 +61,22 @@ sidebar:
 <br/>
 
 ## Former members
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--sm" src="images/gro_aivanovski.jpg"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Andrej Ivanovski</h4>
+    </div>
+    <div class="item__body">
+      <p>Member of group during his diploma and masters work, Andrej's focus was on α-actinin-4, one of the calcium-sensitive human α-actinins.</p>
+    </div>
+  </div>
+</div>
+
+<br/>
 
 <div class="item">
   <div class="item__image">
