@@ -8,7 +8,7 @@ aside:
 
 # Teaching
 
-I work as full-time lecturer at the [Faculty of Chemistry and Chemical Technology](https://www.fkkt.uni-lj.si/){:target="_blank"}, [University of Ljubljana](https://www.uni-lj.si/){:target="_blank"} (UL FCCT), **Chair of Biochemistry** at all three study levels (BSc, MSc, PhD).
+I work as full-time lecturer at the [Faculty of Chemistry and Chemical Technology](https://www.fkkt.uni-lj.si/){:target="_blank"}, [University of Ljubljana](https://www.uni-lj.si/){:target="_blank"} (UL FCCT), **Chair of Biochemistry**.
 
 ## Lecturing
 
@@ -45,4 +45,4 @@ Since the start of my work at UL FCCT, I've been involved in conducting practica
 
 ## Mentoring
 
-Mentoring is an integral and very important part of pedagogical work. Since 2015, I have been a mentor to 13 students during their BSc theses, to 7 masters' students, and 1 doctoral student. Currently, I am mentor to 3 BSc, 1 MSc and 2 PhD students.
+Mentoring is an integral and very important part of pedagogical work. Since 2015, I have been a mentor to 13 students during their BSc theses, to 7 masters' students, and 3 doctoral students (some still in the study process).
